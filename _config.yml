@@ -1,0 +1,28 @@
+name: fosfora
+favicon: null
+layout_spectrum: 0.6699682441540062
+typography_spectrum: 0.39607640192843974
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.6175492473412305
+  lightness: 0.3905753423459828
+  saturation: 0.9475222146138549
+  rhythmicContrast: 0.9548467344138771
+purpose: []
